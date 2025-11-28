@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "atividade13",
+    "slug": "atividade13",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.seunome.seuapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ee9369f7-cce1-4c31-8658-4526f1dcc216"
+      }
+    }
+  }
+}
